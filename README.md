@@ -9,11 +9,11 @@
 
 Este projeto consiste em um aplicativo móvel dedicado à consulta de exercícios de academia. A estrutura de navegação é composta por dois tipos principais:
 
-- **Navegação em Pilha para Rotas Públicas**:   
-Utiliza o conceito de pilha para gerenciar a navegação entre as rotas públicas do aplicativo. Isso proporciona uma experiência de navegação intuitiva e fácil de seguir para os usuários.
+- **Navegação em Pilha para Rotas Públicas**:  
+  Utiliza o conceito de pilha para gerenciar a navegação entre as rotas públicas do aplicativo. Isso proporciona uma experiência de navegação intuitiva e fácil de seguir para os usuários.
 
-- **Navegação por Abas para Rotas Privadas**:   
-Implementa uma navegação por abas na parte inferior do aplicativo, permitindo acesso rápido e direto às rotas privadas. Essa abordagem facilita a organização e a alternância entre as seções do aplicativo.
+- **Navegação por Abas para Rotas Privadas**:  
+  Implementa uma navegação por abas na parte inferior do aplicativo, permitindo acesso rápido e direto às rotas privadas. Essa abordagem facilita a organização e a alternância entre as seções do aplicativo.
 
 ## 🚀 Tecnologias e ferramentas utilizadas
 
@@ -27,11 +27,13 @@ Implementa uma navegação por abas na parte inferior do aplicativo, permitindo 
 
 ## 📱 Capturas de tela
 
-<img src="assets/screenshots/login.png" alt="Tela de Login" width="150" style={{ margin: 4 }} />
-<img src="assets/screenshots/sign-up.png" alt="Tela de Cadastro" width="150" style={{ margin: 4 }} />
-<img src="assets/screenshots/exercise.png" alt="Tela de Exercício" width="150" style={{ margin: 4 }} />
-<img src="assets/screenshots/history.png" alt="Tela de Histórico" width="150" style={{ margin: 4 }} />
-<img src="assets/screenshots/profile.png" alt="Tela de Perfil" width="150" style={{ margin: 4 }} />
+<div>
+  <img src="assets/screenshots/login.png" alt="Tela de Login" width="150"  />
+  <img src="assets/screenshots/sign-up.png" alt="Tela de Cadastro" width="150"  />
+  <img src="assets/screenshots/exercise.png" alt="Tela de Exercício" width="150"  />
+  <img src="assets/screenshots/history.png" alt="Tela de Histórico" width="150"  />
+  <img src="assets/screenshots/profile.png" alt="Tela de Perfil" width="150"  />
+</div>
 
 ## 📦 Como baixar o projeto
 
